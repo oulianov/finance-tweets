@@ -1,8 +1,8 @@
 In this project, I explore [a dataset of 28K financial tweets](https://www.kaggle.com/davidwallach/financial-tweets/data), provided with the courtesy of David Wallach.
 
-**The goal of this project is to explore the dataset.** That is, to understand _what are the kind_ of tweets in this dataset. 
+**My goal for this educational project is to explore the dataset.** That is, to understand _what are the kind_ of tweets in this dataset. 
 
-To do that, I use Natural Language Processing (NLP) and machine learning techniques to clean and cluster the data. I also use my general knowledge of financial markets to analyze in human words the outcome of the model. 
+To do that, I use Natural Language Processing (NLP) and machine learning techniques to clean and cluster the data. I also use my general knowledge of financial markets to analyze in human words the model's output. 
 
 I find that :
 - This model allows us to find relevant tweets about news in the technology sector, and tweets about market predictions.
