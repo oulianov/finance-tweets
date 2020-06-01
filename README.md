@@ -1,4 +1,4 @@
-# finance-weets
+# finance-tweets
 
 Exploration of a financial tweets dataset using NLP and machine learning. 
 
