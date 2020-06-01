@@ -1,3 +1,9 @@
+# finance-weets
+
+Exploration of a financial tweets dataset using NLP and machine learning. 
+
+## Presentation
+
 In this project, I explore [a dataset of 28K financial tweets](https://www.kaggle.com/davidwallach/financial-tweets/data), provided with the courtesy of David Wallach.
 
 **My goal for this educational project is to explore the dataset.** That is, to understand _what are the kind_ of tweets in this dataset. 
@@ -10,3 +16,8 @@ I find that :
 - The model I built is susceptible to tweets spamming the same irrelevant keywords. 
 
 I suggest ways to overcome these issues. At the end of this exploration, I gained valuable knowledge to build more robust data collection pipelines and NLP models.
+
+
+## Instructions
+
+The content of this exploration is in the notebook [Finance tweets.ipynb](https://github.com/oulianov/finance-tweets/blob/master/Finance%20tweets.ipynb) to be opened online. 
