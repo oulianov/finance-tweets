@@ -20,4 +20,4 @@ I suggest ways to overcome these issues. At the end of this exploration, I gaine
 
 ## Instructions
 
-The content of this exploration is in the notebook [Finance tweets.ipynb](https://github.com/oulianov/finance-tweets/blob/master/Finance%20tweets.ipynb) to be opened online. 
+The content of this exploration can be viewed online [by clicking on this link](https://htmlpreview.github.io/?https://github.com/oulianov/finance-tweets/blob/master/Finance%20tweets.html). 
