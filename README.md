@@ -1,6 +1,6 @@
 # finance-tweets
 
-Exploration of a financial tweets dataset using NLP and machine learning. 
+Exploration of a financial tweets dataset to learn about unsupervized machine learning applied to NLP.
 
 ## Presentation
 
